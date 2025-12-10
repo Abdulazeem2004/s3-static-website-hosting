@@ -89,7 +89,7 @@ ACLs determine who can view or modify objects.
 To make a website public, objects must have **public read access**.
 
 
-![image](imgages/web_hosting.png)  
+![image](imgages/web%20hosting.png)  
 
 
 ---
@@ -114,7 +114,7 @@ To resolve the error, I applied **public read access** via ACLs to each uploaded
 Once fixed, the website loaded successfully.
 
 
-![image](images/last.png)  
+![image](images/1.png)  
 
 
 ---
