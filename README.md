@@ -89,7 +89,7 @@ ACLs determine who can view or modify objects.
 To make a website public, objects must have **public read access**.
 
 
-![image](imgages/web%20hosting.png)  
+![image](images/web.png)  
 
 
 ---
