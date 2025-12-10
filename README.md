@@ -1,6 +1,6 @@
 # 🚀 Host a Static Website on Amazon S3  
-**Author:** Abdulazeem Badmus  
-**Platform:** NextWork Student Project  
+ Abdulazeem Badmus  
+
 
 ---
 
@@ -24,8 +24,8 @@ This hands-on project helped me understand the fundamentals of cloud deployment,
 This project took approximately **45 minutes** to complete.
 
 ### 📷 Images  
-![image](img_0_0.png)  
-![image](img_0_1.png)
+![image](1.png)  
+
 
 ---
 
