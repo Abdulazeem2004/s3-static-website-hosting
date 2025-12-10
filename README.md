@@ -24,7 +24,7 @@ This hands-on project helped me understand the fundamentals of cloud deployment,
 This project took approximately **45 minutes** to complete.
 
 ### 📷 Images  
-![image](1.png)  
+![image](images/1.png)  
 
 
 ---
@@ -57,8 +57,7 @@ I also enabled static website hosting so S3 could serve the site publicly.
 - S3 bucket names must be **globally unique**  
 
 ### 📷 Images  
-![image](img_1_0.png)  
-![image](img_2_0.png)
+![image](images/bucket.png)  
 
 ---
 
@@ -72,8 +71,8 @@ Next, I uploaded all website content — including the HTML file and the folder 
 - S3 must store the **same folder structure** used by the site  
 
 ### 📷 Images  
-![image](img_3_0.png)  
-![image](img_3_1.png)
+![image](imges/link.png)  
+
 
 ---
 
