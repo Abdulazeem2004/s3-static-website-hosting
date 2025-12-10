@@ -22,8 +22,7 @@ In this project, I demonstrated how to host a **static website** using **Amazon 
 This hands-on project helped me understand the fundamentals of cloud deployment, S3 bucket configuration, static hosting, ACL permissions, and bucket policies.
 
 This project took approximately **45 minutes** to complete.
-
-### 📷 Images  
+ 
 ![image](images/1.png)  
 
 
@@ -56,7 +55,7 @@ I also enabled static website hosting so S3 could serve the site publicly.
 - Region selected: **af-south-1 (South Africa)** for lower latency  
 - S3 bucket names must be **globally unique**  
 
-### 📷 Images  
+
 ![image](images/bucket.png)  
 
 ---
@@ -70,8 +69,8 @@ Next, I uploaded all website content — including the HTML file and the folder 
 - Missing images = broken UI  
 - S3 must store the **same folder structure** used by the site  
 
-### 📷 Images  
-![image](imges/link.png)  
+ 
+![image](images/link.png)  
 
 
 ---
@@ -89,10 +88,9 @@ I enabled **Static Website Hosting** from the bucket properties to generate a pu
 ACLs determine who can view or modify objects.  
 To make a website public, objects must have **public read access**.
 
-### 📷 Images  
-![image](img_4_0.png)  
-![image](img_5_0.png)  
-![image](img_5_1.png)
+
+![image](imgages/web%hosting.png)  
+
 
 ---
 
@@ -103,10 +101,9 @@ The first time I visited the S3 endpoint, I encountered a **403 Forbidden** erro
 ### ❗ Why this happened
 Even though the bucket was public, the **objects themselves** didn’t have public permission.
 
-### 📷 Images  
-![image](img_6_0.png)  
-![image](img_7_0.png)  
-![image](img_7_1.png)
+
+![image](images/error.png)  
+
 
 ---
 
@@ -116,12 +113,9 @@ To resolve the error, I applied **public read access** via ACLs to each uploaded
 
 Once fixed, the website loaded successfully.
 
-### 📷 Images  
-![image](img_8_0.png)  
-![image](img_8_1.png)  
-![image](img_9_0.png)  
-![image](img_9_1.png)  
-![image](img_10_0.png)
+
+![image](imges/last.png)  
+
 
 ---
 
